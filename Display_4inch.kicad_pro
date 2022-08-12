@@ -422,6 +422,10 @@
     [
       "3f0c3fb9-57f0-4439-b2df-3c934842d7db",
       "LEDs"
+    ],
+    [
+      "006cd2a9-2c86-4815-a7c5-7be5f924e757",
+      "Connectors"
     ]
   ],
   "text_variables": {}
